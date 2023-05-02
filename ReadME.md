@@ -21,4 +21,4 @@ Install the needed libraries by running `pip -r requirements.txt`.
 
 After this, you can edit the flags and constants in the python script.
 
-Finally, run the python script doing something like `py generate.py`.
+Finally, run the python script doing something like `py code.py`.
